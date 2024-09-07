@@ -1,0 +1,21 @@
+ 
+  @keyframes carAnimate {
+    0% {
+        margin-left: 1700px;
+    }
+    100% {
+        margin-left: -700px;
+    }
+  }
+
+
+  @keyframes animate {
+    0% {
+        margin-left: 1300px;
+        opacity: 0;
+    }
+    100% {
+        margin-right: 20px;
+        opacity: 1;
+    }
+  }
